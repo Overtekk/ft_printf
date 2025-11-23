@@ -35,13 +35,19 @@ Completed on **06/11/2025** without bonus.
 
 ## 🔷 Usage
 
-- First, clone this repository.
-
-`make` to compile mandatory functions.
-
-I have provided a complete `main` to test your ft_printf. You can run it using this command:\
-```cc -Wall -Werror -Wextra main/main.c libftprintf.a && ./a.out```\
-Press `enter` to test all conversion.
+### First, clone this repository.
+```bash
+https://github.com/Overtekk/so_long.git
+```
+### Compile with make
+```bash
+make
+```
+### You can use my `main` to test all functions. You can run it using:
+```bash
+cc -Wall -Werror -Wextra main/main.c libftprintf.a && ./a.out
+```
+### Press `enter` to test all conversion.
 
 ## 🛠️ Supported Conversions
 
