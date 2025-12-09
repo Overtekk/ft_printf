@@ -37,7 +37,7 @@ Completed on **06/11/2025** without bonus.
 
 ### First, clone this repository.
 ```bash
-https://github.com/Overtekk/ft_printf
+https://github.com/Overtekk/ft_printf.git
 ```
 ### Compile with make
 ```bash
